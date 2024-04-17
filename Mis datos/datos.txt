@@ -1,0 +1,9 @@
+Nombre: cristian adrian
+Apellido: lucero
+Altura: 1.67
+Edad: 43
+Peso: 69
+colorPreferido: azul
+d.n.i: 28195001
+
+anexo_de_clase_link: https://www.aluracursos.com/blog/convenciones-de-nomenclatura-camel-pascal-kebab-snake-case
